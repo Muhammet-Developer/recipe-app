@@ -1,0 +1,7 @@
+ body{
+   background: linear-gradient(120deg,#CAC4CF,#EBEAEF);
+   height: 100vh;
+   background-attachment: fixed;
+   background-size: cover;
+   height: auto
+  }

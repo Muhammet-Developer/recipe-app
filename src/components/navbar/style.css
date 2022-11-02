@@ -1,0 +1,43 @@
+nav{
+    height: 8vh;
+    width: 100%;
+    background-color: #E8E7EC;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+img{
+    height: 7vh;
+    margin-top: 5px;
+}
+.github{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold; 
+}
+.github:hover{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #DBDADD;
+    color: #62949C;
+    transition: 0.5s;
+}
+.activ{
+   text-decoration: none;
+   font-family:'Times New Roman', Times, serif;
+   font-weight: bold;
+}
+.activ:hover{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #DBDADD;
+    color: #62949C; 
+    transition: 0.5s;
+}
+.activ1:hover{
+    padding: 0px;
+    border-radius: 0px;
+}
